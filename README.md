@@ -16,7 +16,7 @@
       alt="GitHub Stats"
       style="background-color: #1c1e26; border-radius: 8px; padding: 10px;"
     />
-    <a href="https://github.com/CarlosAlbertoJunior/github-readme-stats">
+    <a href="https://github.com/OdevilmaSousa/github-readme-stats">
       <img 
         src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Odevilma&line_height=10&card_width=290&layout=compact&count_private=true&langs_count=4"
         alt="Most Used Languages"
